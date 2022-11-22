@@ -1,5 +1,5 @@
 # Primeiro-site-HTML-Recode
-## :computer: Tecnologias Utilizadas
+## :computer: Tecnologias Utilizadas.
 
 * **Front-end:** HTML.
 * **Ferramentas:** Visual Studio 2022.
