@@ -1,8 +1,8 @@
 # Primeiro-site-HTML-Recode
 ## :computer: Tecnologias Utilizadas
 
-* **Front-end:** HTML
-* **Ferramentas:** Visual Studio 2022
+* **Front-end:** HTML.
+* **Ferramentas:** Visual Studio 2022.
 
 ## Link do funcionamento da atividade
 
